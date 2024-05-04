@@ -1,0 +1,29 @@
+==00:00:00:00.000 3868== Memcheck, a memory error detector
+==00:00:00:00.000 3868== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==00:00:00:00.000 3868== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==00:00:00:00.000 3868== Command: ./client 127.0.0.1 1501
+==00:00:00:00.000 3868== Parent PID: 3865
+==00:00:00:00.000 3868== 
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== FILE DESCRIPTORS: 4 open at exit.
+==00:00:00:00.754 3868== Open file descriptor 3: /home/isaias/Desktop/FIUBA/Taller/Trabajos Obligatorios/sockets-2024c1-isaiascabreraa/casos/combo/__client_0_valgrind__
+==00:00:00:00.754 3868==    <inherited from parent>
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== Open file descriptor 2: /home/isaias/Desktop/FIUBA/Taller/Trabajos Obligatorios/sockets-2024c1-isaiascabreraa/casos/combo/__client_0_stderr__
+==00:00:00:00.754 3868==    <inherited from parent>
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== Open file descriptor 1: /home/isaias/Desktop/FIUBA/Taller/Trabajos Obligatorios/sockets-2024c1-isaiascabreraa/casos/combo/__client_0_stdout__
+==00:00:00:00.754 3868==    <inherited from parent>
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== Open file descriptor 0: /home/isaias/Desktop/FIUBA/Taller/Trabajos Obligatorios/sockets-2024c1-isaiascabreraa/casos/combo/__client_0_stdin__
+==00:00:00:00.754 3868==    <inherited from parent>
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== HEAP SUMMARY:
+==00:00:00:00.754 3868==     in use at exit: 0 bytes in 0 blocks
+==00:00:00:00.754 3868==   total heap usage: 48 allocs, 48 frees, 83,846 bytes allocated
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== All heap blocks were freed -- no leaks are possible
+==00:00:00:00.754 3868== 
+==00:00:00:00.754 3868== For lists of detected and suppressed errors, rerun with: -s
+==00:00:00:00.754 3868== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
