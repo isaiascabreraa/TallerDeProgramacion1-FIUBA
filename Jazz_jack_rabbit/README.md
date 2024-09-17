@@ -8,7 +8,6 @@ Trabajo Practico final para la materia Taller de Programacion I - FIUBA
 * [Lucas Perez Esnaola](https://github.com/LucasPerezEs)
 
 ## Documentacion del proyecto
-* [Manual de Instalacion](manuales/ManualDeInstalacion.txt)
 * [Manual de Proyecto](manuales/ManualDeProyecto.pdf)
 * [Manual Tecnico](manuales/ManualTecnico.pdf)
 
