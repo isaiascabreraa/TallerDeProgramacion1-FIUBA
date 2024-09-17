@@ -1,0 +1,47 @@
+add_library(server_lib
+    enemies/enemy.cpp
+    enemies/bat.cpp
+    enemies/ghost.cpp
+    enemies/monkey.cpp
+    pickups/bullet_ammo.cpp
+    pickups/pickup.cpp
+    pickups/carrot.cpp
+    pickups/gold_coin.cpp
+    pickups/rocket_ammo.cpp
+    pickups/gem.cpp
+    pickups/icebullet_ammo.cpp
+    pickups/poisoned_carrot.cpp
+    characters/character.cpp
+    characters/jazz.cpp
+    characters/lori.cpp
+    characters/spaz.cpp
+    projectiles/projectile.cpp
+    projectiles/bullet.cpp
+    projectiles/rocket.cpp
+    projectiles/icebullet.cpp
+    game/game.cpp
+    game/map.cpp
+    game/object.cpp
+    game/object_list.cpp
+    game/clock.cpp
+    GamesManager.cpp
+    GameBroadcasterContainer.cpp
+    protocol.cpp
+    broadcaster.cpp
+    client.cpp
+    clientReceiver.cpp
+    clientSender.cpp
+    acceptor.cpp
+    server.cpp
+    banana.cpp
+    monitor_clients.cpp
+    ../common_src/Container.cpp
+    ../common_src/liberror.cpp
+    ../common_src/protocol.cpp
+    ../common_src/resolver.cpp
+    ../common_src/resolvererror.cpp
+    ../common_src/socket.cpp
+)
+
+target_include_directories(server_lib PRIVATE headers/*)
+target_include_directories(server_lib PRIVATE ../common_src/headers/*)
