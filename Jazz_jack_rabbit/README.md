@@ -47,12 +47,7 @@ Cliente:
 * Seleccionar/dibujar textura: `Left click`
 * Dibujar multiples texturas: `Hold left click`
 * Borrar spawn: `Right click`
-
-Durante el dibujado, el primer bloque de texturas son elementos solidos mientras que el segundo bloque (los inferiores) permiten al jugador traspasarlos (son decorativos).
-
-Para seleccionar donde colocar los spawns del jugador o de los enemigos se usan las siguientes texturas:
-
-![ImagenDelLosAssetsUsadosParaEditarSpawns](/doc/editor_spawns.png)
+* 
 
 ## Licencia y Referencias
 Este repositorio se encuentra bajo la Licencia MIT  
