@@ -11,7 +11,7 @@ Trabajo Practico final para la materia Taller de Programacion I - FIUBA
 * [Manual de Proyecto](manuales/ManualDeProyecto.pdf)
 * [Manual Tecnico](manuales/ManualTecnico.pdf)
 
-##Instalacion y Ejecucion del Proyecto
+## Instalacion y Ejecucion del Proyecto
 1. Ejecute: [chmod +x install.sh]
 
 2. Luego ejecute [./install.sh] para instalar las dependencias requeridas.
