@@ -11,18 +11,18 @@ Trabajo Practico final para la materia Taller de Programacion I - FIUBA
 * [Manual de Proyecto](manuales/ManualDeProyecto.pdf)
 * [Manual Tecnico](manuales/ManualTecnico.pdf)
 
-## Ejecución para el Cliente y Servidor
-Servidor:
-1. Abra una terminal y navegar hasta el directorio del servidor.
-2. Ejecute el comando `./server <puerto>` para iniciar el servidor.
+##Instalacion y Ejecucion del Proyecto
+1. Ejecute: [chmod +x install.sh]
 
-Cliente:
-1. Abra otra terminal y navegar hasta el directorio del cliente.
-2. Ejecute el comando `./client` para iniciar el cliente.
+2. Luego ejecute [./install.sh] para instalar las dependencias requeridas.
 
-3. Coloque la dirección IP y el puerto del servidor para conectarse.  
+3. Una vez instalado el juego, abra una terminal y navegue hasta el apartado build.
 
-4. Haga clic en "Connect" para unirse a una partida.  
+4. Ejecute [./server <port>] en una terminal y luego [./client] en otra para iniciar.
+
+5. Coloque la dirección IP y el puerto del servidor para conectarse.
+
+6. Haga clic en "Connect" para unirse a una partida.
 
 ## Controles
 * Mover izquierda: `A`

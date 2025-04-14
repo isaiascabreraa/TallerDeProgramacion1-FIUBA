@@ -1,0 +1,5 @@
+if(EXISTS "/home/isaias/Escritorio/FIUBA/TallerDeProgramacion1-FIUBA/Jazz_jack_rabbit/build/prueba[1]_tests.cmake")
+  include("/home/isaias/Escritorio/FIUBA/TallerDeProgramacion1-FIUBA/Jazz_jack_rabbit/build/prueba[1]_tests.cmake")
+else()
+  add_test(prueba_NOT_BUILT prueba_NOT_BUILT)
+endif()

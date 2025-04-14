@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -Werror -pedantic -pedantic-errors -O0 -ggdb -DDEBUG -fno-inline -D_POSIX_C_SOURCE=200809L CMakeFiles/server.dir/server_src/main.cpp.o -o server  server_src/libserver_lib.a -lpthread -lyaml-cpp 
