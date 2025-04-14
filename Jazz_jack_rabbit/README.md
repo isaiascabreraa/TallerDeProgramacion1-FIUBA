@@ -11,14 +11,14 @@ Trabajo Practico final para la materia Taller de Programacion I - FIUBA
 * [Manual de Proyecto](manuales/ManualDeProyecto.pdf)
 * [Manual Tecnico](manuales/ManualTecnico.pdf)
 
-## Instalacion y Ejecucion del Proyecto
-1. Ejecute: [chmod +x install.sh]
+## Instalación y Ejecución del Proyecto
+1. Ejecute el comando "chmod +x install.sh"
 
-2. Luego ejecute [./install.sh] para instalar las dependencias requeridas.
+2. Luego ejecute "./install.sh" para instalar las dependencias requeridas.
 
 3. Una vez instalado el juego, abra una terminal y navegue hasta el apartado build.
 
-4. Ejecute [./server <port>] en una terminal y luego [./client] en otra para iniciar.
+4. Ejecute "./server <port>" en una terminal y luego "./client" en otra para iniciar.
 
 5. Coloque la dirección IP y el puerto del servidor para conectarse.
 
