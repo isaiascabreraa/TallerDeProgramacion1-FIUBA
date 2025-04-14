@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsetupscreen_editor.a CMakeFiles/setupscreen_editor.dir/SetupScreen.cpp.o CMakeFiles/setupscreen_editor.dir/AppMenu.cpp.o CMakeFiles/setupscreen_editor.dir/CreateMap.cpp.o CMakeFiles/setupscreen_editor.dir/ModifyMap.cpp.o CMakeFiles/setupscreen_editor.dir/moc_SetupScreen.cpp.o CMakeFiles/setupscreen_editor.dir/moc_AppMenu.cpp.o CMakeFiles/setupscreen_editor.dir/moc_CreateMap.cpp.o CMakeFiles/setupscreen_editor.dir/moc_ModifyMap.cpp.o
-/usr/bin/ranlib libsetupscreen_editor.a

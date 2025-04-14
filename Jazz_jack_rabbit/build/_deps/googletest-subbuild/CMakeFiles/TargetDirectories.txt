@@ -1,3 +1,0 @@
-/home/isaias/Escritorio/FIUBA/TallerDeProgramacion1-FIUBA/Jazz_jack_rabbit/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/home/isaias/Escritorio/FIUBA/TallerDeProgramacion1-FIUBA/Jazz_jack_rabbit/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/isaias/Escritorio/FIUBA/TallerDeProgramacion1-FIUBA/Jazz_jack_rabbit/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

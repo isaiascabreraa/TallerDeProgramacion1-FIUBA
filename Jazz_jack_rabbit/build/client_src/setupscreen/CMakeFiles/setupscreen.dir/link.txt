@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsetupscreen.a CMakeFiles/setupscreen.dir/ConnectMenu.cpp.o CMakeFiles/setupscreen.dir/MultiplayerMenu.cpp.o CMakeFiles/setupscreen.dir/CreateGame.cpp.o CMakeFiles/setupscreen.dir/JoinGame.cpp.o CMakeFiles/setupscreen.dir/ClientName.cpp.o CMakeFiles/setupscreen.dir/moc_ConnectMenu.cpp.o CMakeFiles/setupscreen.dir/moc_MultiplayerMenu.cpp.o CMakeFiles/setupscreen.dir/moc_CreateGame.cpp.o CMakeFiles/setupscreen.dir/moc_JoinGame.cpp.o CMakeFiles/setupscreen.dir/moc_ClientName.cpp.o
-/usr/bin/ranlib libsetupscreen.a
